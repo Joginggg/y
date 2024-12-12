@@ -2,7 +2,7 @@ import streamlit as st
 from main import main as main_page
 from quiz import run_quiz
 
-st.set_page_config(page_title="Kuis Pemula", page_icon="")
+st.set_page_config(page_title="Kuis Pemula", page_icon="📚")
 
 def run():
     if 'page' not in st.session_state:
