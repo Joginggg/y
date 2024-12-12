@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.set_page_config(page_title="Kuis Pemula", page_icon="📚")
+    st.title("Kuis Pemula")
     st.markdown("Selamat Datang di Kuis Pemula! Pemula atau Pemain udah lama?")
     
     st.markdown("""
