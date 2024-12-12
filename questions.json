@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Lambang Segi enam pada flowchat memiliki keterangan?",
+        "options": ["Pemberian nilai awal", "Percabangan", "Mulai/Selesai", "Input/Output"],
+        "answer": "Pemberian nilai awal"
+    },
+    {
+        "question": "Apa tipe data yang digunakan untuk menyimpan bilangan bulat dalam bahasa C?",
+        "options": ["float", "int", "char", "double"],
+        "answer": "int"
+    },
+    {
+        "question": "Struktur kontrol yang digunakan untuk melakukan perulangan dalam bahasa C, kecuali",
+        "options": ["do", "do-while", "for", "while-do"],
+        "answer": "while-do"
+    },
+    {
+        "question": "Apa yang akan dicetak oleh program berikut? Dengan ASCII 0=48-----printf(%d, 5 + 3 * 2 + '3');",
+        "options": ["14", "62", "11", "69"],
+        "answer": "62"
+    },
+    {
+        "question": "Apa yang akan dicetak oleh program berikut?------int x = 10-----printf('%d', x++)",
+        "options": ["10", "11", "0", "1"],
+        "answer": "10"
+    },
+    {
+        "question": "Apa hasil dari  !(5 > 3) dalam bahasa C?",
+        "options": ["1", "0", "True", "False"],
+        "answer": "0"
+    },
+    {
+        "question": "Apa yang akan dicetak oleh program berikut?-----int a = 5, b = 10-----printf('%d', a > b ? a : b)",
+        "options": ["True", "False", "5", "10"],
+        "answer": "10"
+    },
+    {
+        "question": "Apa yang akan dicetak oleh program berikut?-----int a = 10-----if (a > 5)-----printf('Greater')-----else-----printf('Smaller')",
+        "options": ["Greater", "Smaller", "10", "5"],
+        "answer": "Greater"
+    },
+    {
+        "question": "Apa yang akan dicetak oleh program berikut?-----int arr[5] = {1, 2, 3, 4, 5}------printf('%d', arr[2] + arr[3])",
+        "options": ["5", "3", "4", "7"],
+        "answer": "7"
+    }
+]
